@@ -16,4 +16,4 @@ I am a Machine Learning Engineer with a background in Chemical Engineering and B
 
 **Cloud:** AWS (EC2, S3), GCP
 
-**Frameworks & Other:** Flask, Gunicorn, Docker, Vagrant, Bootstrap, WordPress, Git, Anaconda
+**Frameworks & Other:** Git, Anaconda, Flask, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress
