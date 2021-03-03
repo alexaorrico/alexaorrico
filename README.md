@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm [Alexa](https://www.linkedin.com/in/alexa-orrico/) 👋
 
-<!--
-**alexaorrico/alexaorrico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Machine Learning Engineer with a background in Chemical Engineering and Bio Engineering. I love solving complex data and algorithmic problems and have extensive experience at high-growth startups - formerly the head of Machine Learning at Holberton School.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills and Expertise
+**Programming Languages:** Python (Numpy, Tensorflow, Keras, Scikit-Learn), C/C++, SQL, Ruby on Rails, JavaScript, HTML, CSS
+
+**Machine Learning and Deep Learning:** 
+
+- Supervised Learning: Linear Regression, Logistic Regression, SVMs, KNNs, Neural Networks, CNNs, RNNs, Transformers, Computer Vision (Object Detection, Image Segmentation, Face Recognition/Verification, YOLO, OpenCV), Natural Language Processing (NLTK, SpaCy, Gensim)
+- Unsupervised Learning: Bayesian Optimization, Clustering, k-means, GMMs, Dimensionality Reduction, PCA, tSNE, HMMs, autoencoders, GANs 
+- Reinforcement Learning: Monte Carlo, TD(λ), SARSA(λ), Q-learning, Policy Gradients, OpenAI Gym, KerasRL
+
+**Data Visualization:** Matplotlib, Seaborn, Pandas
+
+**Cloud:** AWS (EC2, S3), GCP
+
+**Frameworks & Other:** Flask, Gunicorn, Docker, Vagrant, Bootstrap, WordPress, Git, Anaconda
